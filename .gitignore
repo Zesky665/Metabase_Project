@@ -162,5 +162,4 @@ cython_debug/
 #.idea/
 data/archive.zip
 data/.DS_Store
-data/artists.csv
-data/artworks.csv
+
